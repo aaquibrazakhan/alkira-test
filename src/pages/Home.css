@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main-container{
+    padding:59px 120px;
+    width:100%;
+}
+.title{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color:#074684;
+}
+.table-container{
+    margin-top: 57px;
+}
+.mb-3{
+    height: 72px !important;
+    width: 750px !important;
+    border-radius: 10px;
+    /* color: black; */
+    border: #074684 solid 2px;
+    margin-top: 39px;
+}
+.mb-3 svg {
+    font-size: 35px !important;
+    margin-top: 18px !important;
+    margin-left: 10px !important;
+}
+.mb-3 input {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    
+}
